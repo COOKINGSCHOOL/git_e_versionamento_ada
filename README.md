@@ -1,2 +1,2 @@
 # Meu Projeto
-Este é meu novo projeto na ADA!
+Este é meu novo projeto na ADA
