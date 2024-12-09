@@ -1,2 +1,3 @@
-# Meu Projeto
-Este é meu novo projeto na pge.
+# Curso Digital: Git   
+
+# Salvando alterações no git
